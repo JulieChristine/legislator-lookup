@@ -1,0 +1,6 @@
+{
+  "name": "legislator-lookup",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
